@@ -1,0 +1,11 @@
+.container{
+    height: 100vh;
+}
+
+.form_wrapper{
+    height: 100%;
+}
+
+.form {
+    margin: auto;
+}
